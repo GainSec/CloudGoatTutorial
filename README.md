@@ -124,7 +124,7 @@ Choose your default language.
 
 ![](/images/image_14.png)
 
-For most applications, the default DHCP configuration will be sufficient.
+For most applications, the **default DHCP configuration** will be sufficient.
 
 ![](/images/image_15.png)
 
@@ -135,7 +135,7 @@ Note: **Your server's name** is your **vm's hostname**
 
 ![](/images/image_16.png)
 
-Select the option to download OpenSSH, skip all the additional snaps.
+Select the option to download and configure **OpenSSH**, skip all the additional snaps.
 You should then see the system being installed.
 
 ![](/images/image_17.png)
